@@ -12,6 +12,7 @@
 - 👉 only read no others option
 - 👉 Translate English
 - 👉 Full Quran
+- 👉 Use APi
 
 ## Uses Library or Fram works
 
